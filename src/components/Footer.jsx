@@ -59,7 +59,7 @@ const Footer = () => {
           <div className="col-lg-3 footer-col">
             <h5>SOCIAL MEDIA</h5>
             <a
-              href="https://www.facebook.com/ahmedmishmael"
+              href=""
               target="_blank"
               rel="noreferrer"
             >
@@ -67,7 +67,7 @@ const Footer = () => {
               Facebook
             </a>
             <a
-              href="https://twitter.com/ahmedmishmael"
+              href=""
               target="_blank"
               rel="noreferrer"
             >
@@ -75,7 +75,7 @@ const Footer = () => {
               Twitter
             </a>
             <a
-              href="https://www.instagram.com/ahmedmishmael"
+              href=""
               target="_blank"
               rel="noreferrer"
             >
@@ -83,7 +83,7 @@ const Footer = () => {
               Instagram
             </a>
             <a
-              href="https://www.linkedin.com/in/ahmedmishmael"
+              href=""
               target="_blank"
               rel="noreferrer"
             >
@@ -133,7 +133,9 @@ const Footer = () => {
         </div>
         <div className="text-center mb-3">
           &copy; 2022 - All Rights Reserved.
-          
+          <br /> Powered By{" "}
+
+          <span className="myname">Toxn</span>
         </div>
       </Container>
     </footer>

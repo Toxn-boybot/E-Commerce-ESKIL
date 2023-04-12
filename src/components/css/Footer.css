@@ -25,3 +25,7 @@ footer a {
   align-items: center;
   justify-content: flex-end;
 }
+.myname {
+  color: #8b0000;
+  font-weight: 600;
+}

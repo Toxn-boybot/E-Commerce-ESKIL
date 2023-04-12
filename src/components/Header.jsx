@@ -16,14 +16,14 @@ const Header = () => {
         </div>
         <div className="d-flex align-items-center">
           <a
-            href="https://www.facebook.com/ahmedmishmael"
+            href=""
             target="_blank"
             rel="noreferrer"
           >
             <AiOutlineFacebook />
           </a>
           <a
-            href="https://twitter.com/ahmedmishmael"
+            href=""
             target="_blank"
             className="ms-2"
             rel="noreferrer"
@@ -31,7 +31,7 @@ const Header = () => {
             <TfiTwitter />
           </a>
           <a
-            href="https://www.instagram.com/ahmedmishmael"
+            href=""
             target="_blank"
             className="ms-2"
             rel="noreferrer"
