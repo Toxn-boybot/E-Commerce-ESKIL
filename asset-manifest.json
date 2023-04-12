@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/E-Commerce-ESKIL/static/css/main.4ff342b7.css",
-    "main.js": "/E-Commerce-ESKIL/static/js/main.17dab569.js",
+    "main.css": "/E-Commerce-ESKIL/static/css/main.79ad0630.css",
+    "main.js": "/E-Commerce-ESKIL/static/js/main.9276ba11.js",
     "static/media/EskilMP4.mp4": "/E-Commerce-ESKIL/static/media/EskilMP4.44d5edad3bbaed39f891.mp4",
     "static/media/team1.jpg": "/E-Commerce-ESKIL/static/media/team1.de4e1981bdd1e1bb5883.jpg",
     "static/media/team2.jpg": "/E-Commerce-ESKIL/static/media/team2.698f638e6289917edbca.jpg",
@@ -20,11 +20,11 @@
     "static/media/brand3.png": "/E-Commerce-ESKIL/static/media/brand3.be92cfc3a30669cfbe76.png",
     "static/media/brand5.png": "/E-Commerce-ESKIL/static/media/brand5.f83a4b57c07fea85af58.png",
     "index.html": "/E-Commerce-ESKIL/index.html",
-    "main.4ff342b7.css.map": "/E-Commerce-ESKIL/static/css/main.4ff342b7.css.map",
-    "main.17dab569.js.map": "/E-Commerce-ESKIL/static/js/main.17dab569.js.map"
+    "main.79ad0630.css.map": "/E-Commerce-ESKIL/static/css/main.79ad0630.css.map",
+    "main.9276ba11.js.map": "/E-Commerce-ESKIL/static/js/main.9276ba11.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ff342b7.css",
-    "static/js/main.17dab569.js"
+    "static/css/main.79ad0630.css",
+    "static/js/main.9276ba11.js"
   ]
 }
