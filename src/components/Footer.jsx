@@ -3,7 +3,6 @@ import { Container } from "react-bootstrap";
 import "./css/Footer.css";
 import { Link } from "react-router-dom";
 import Logo from "./assets/EskilLogo.png";
-import AhmedIshmael from "./assets/Ahmed Ishmael.png";
 import { BsPaypal } from "react-icons/bs";
 import { SiAmazonpay } from "react-icons/si";
 import { FaApplePay } from "react-icons/fa";
